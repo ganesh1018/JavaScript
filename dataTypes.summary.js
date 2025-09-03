@@ -31,15 +31,15 @@ let changename=name;
 // { name: 'ganesh ressy', email: 'aravind@gmail.com' }
 // { name: 'ganesh ressy', email: 'aravind@gmail.com' }
 
-const gameName="cricket";
-console.log(gameName.concat("game"));
-console.log(gameName.replace('r','g'));
-console.log(gameName.replaceAll("cricket","football"));
-console.log(gameName.substring(2));
-console.log(gameName.slice(-2,7));
+// const gameName="cricket";
+// console.log(gameName.concat("game"));
+// console.log(gameName.replace('r','g'));
+// console.log(gameName.replaceAll("cricket","football"));
+// console.log(gameName.substring(2));
+// console.log(gameName.slice(-2,7));
 
 
 
-console.log(gameName);
+// console.log(gameName);
 
 
